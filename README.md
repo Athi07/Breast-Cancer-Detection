@@ -63,3 +63,6 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Accuracy: {accuracy * 100:.2f}%')
 ```
+# Output
+![](Output1.png)
+![](Output2.png)
